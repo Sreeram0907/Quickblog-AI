@@ -9,7 +9,7 @@ QuickBlog empowers users to write, search, and explore blogs with ease — wheth
 🔍 Search functionality to explore blogs by keywords<br>
 📂 Category filters (Tech, Startup, Lifestyle, Finance, etc.)<br>
 💻 Responsive UI optimized for desktop and mobile<br>
-🔐 Simple Login system for user access (if implemented)<br>
+🔐 Simple Login system for user access<br>
 
 ## 🛠️ Technologies Used
 
