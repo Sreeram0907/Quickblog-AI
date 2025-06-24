@@ -33,3 +33,4 @@ npm run dev
 ```
 
 ## 📸 Screenshot
+![App Screenshot](./src/assets/QuickBlog.png)
